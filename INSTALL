@@ -1,0 +1,9 @@
+Building Boxxycoin
+
+See doc/readme-qt.rst for instructions on building Boxxycoin-Qt,
+the intended-for-end-users, nice-graphical-interface, reference
+implementation of Boxxycoin.
+
+See doc/build-*.txt for instructions on building boxxycoind,
+the intended-for-services, no-graphical-interface, reference
+implementation of Boxxycoin.
